@@ -7,6 +7,9 @@
 
 
 ## About the book
+<a target="_blank" href="https://www.amazon.com/dp/B079Q3WLM4/ref=sr_1_1?ie=UTF8&qid=1518175121&sr=8-1&keywords=hands+on+reinforcement+learning+with+python">
+  <img src="https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/images/book_cover.jpg" alt="Book Cover" width="250" align="left"/>
+</a>
 
 Reinforcement Learning with Python will take your learning to the next level. It will help you master the concepts of reinforcement learning to deep reinforcement learning and you will see things in action. The book will explain everything from scratch by implementing practical applications at work or projects, all written in Python.
 
