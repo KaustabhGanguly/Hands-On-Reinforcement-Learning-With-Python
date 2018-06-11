@@ -12,16 +12,16 @@ Reinforcement Learning with Python will take your learning to the next level. It
 
 The book starts with an introduction to Reinforcement Learning, OpenAI, and TensorFlow. You will then explore Reinforcement learning algorithms and concepts such as the Markov Decision Processes (MDPs), Monte-Carlo tree search, and dynamic programming, including policy and value iteration. You will get to grips with temporal difference learning algorithms, including Q-learning and SARSA. This example-rich guide will introduce you to neural networks and deep learning, covering various deep learning algorithms. You will explore deep reinforcement learning in depth, which is a combination of deep learning and reinforcement learning. You will also learn how deep reinforcement learning algorithms can be used with TensorFlow and Keras to build intelligent applications.
 
-### [1. Introduction to Reinforcement Learning]
+### [1. Introduction to Reinforcement Learning](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/1.%20Introduction%20to%20Reinforcement%20Learning)
 
-* [1.1. What is Reinforcement Learning?] 
-* [1.2. Reinforcement Learning Cycle] (#)
-* [1.3. How RL differs from other ML Paradigms?] (#)
-* [1.4. Elements of Reinforcement Learning] (#)
-* [1.5. Agent Environment Interface] (#)
-* [1.6. Types of RL Environments] (#)
-* [1.7. Reinforcement Learning Platforms] (#)
-* [1.8. Applications of Reinforcement Learning] (#)
+* [1.1. What is Reinforcement Learning?](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/1.%20Introduction%20to%20Reinforcement%20Learning/1.1%20What%20is%20Reinforcement%20Learning.ipynb)
+* [1.2. Reinforcement Learning Cycle](#)
+* [1.3. How RL differs from other ML Paradigms?](#)
+* [1.4. Elements of Reinforcement Learning](#)
+* [1.5. Agent Environment Interface](#)
+* [1.6. Types of RL Environments](#)
+* [1.7. Reinforcement Learning Platforms](#)
+* [1.8. Applications of Reinforcement Learning](#)
 
 
 
@@ -139,13 +139,13 @@ The book starts with an introduction to Reinforcement Learning, OpenAI, and Tens
 * [9.6. Deep Attention Recurrent Q Network] (#)
 
 
-### [10. Asynchronous Advantage Actor Critic Network ]
+### [10. Asynchronous Advantage Actor Critic Network ](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/10.%20Aysnchronous%20Advantage%20Actor%20Critic%20Network)
 
-* [10.1. Asynchronous Actor Critic Algorithm] (#)
+* [10.1. Asynchronous Actor Critic Algorithm](#)
 * [10.2. The three A's](#)
-* [10.3. Architecture of A3C] (#)
-* [10.4. Working of A3C] (#)
-* [10.5. Drive up the Mountain with A3C](#)
+* [10.3. Architecture of A3C](#)
+* [10.4. Working of A3C](#)
+* [10.5. Drive up the Mountain with A3C](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/10.%20Aysnchronous%20Advantage%20Actor%20Critic%20Network/10.5%20Drive%20up%20the%20Mountain%20Using%20A3C.ipynb)
 * [10.6. Visualization in Tensorboard](#)
 
 
@@ -159,13 +159,13 @@ The book starts with an introduction to Reinforcement Learning, OpenAI, and Tens
 * [11.5. Trust Region Policy Optimization] (#)
 * [11.6. Proximal Policy Optimization](#)
  
-### [12. Capstone Project: Car Racing using DQN]
+### [12. Capstone Project: Car Racing using DQN](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/12.%20Capstone%20Project:%20Car%20Racing%20using%20DQN)
 
-* [12.1. Environment Wrapper Functions](#)
-* [12.2. Dueling Network](#)
-* [12.3. Replay Buffer](#)
-* [12.4. Training the Network]  (#)
-* [12.5. Car Racing]  (#)
+* [12.1. Environment Wrapper Functions](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/12.%20Capstone%20Project:%20Car%20Racing%20using%20DQN/12.1%20Environment%20Wrapper%20Functions.ipynb)
+* [12.2. Dueling Network](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/12.%20Capstone%20Project:%20Car%20Racing%20using%20DQN/12.2%20Dueling%20network.ipynb)
+* [12.3. Replay Buffer](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/12.%20Capstone%20Project:%20Car%20Racing%20using%20DQN/12.3%20Replay%20Memory.ipynb)
+* [12.4. Training the Network](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/12.%20Capstone%20Project:%20Car%20Racing%20using%20DQN/12.4%20Training%20the%20network.ipynb)
+* [12.5. Car Racing](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/12.%20Capstone%20Project:%20Car%20Racing%20using%20DQN/12.5%20Car%20Racing.ipynb)
 
 
 ### [13. Recent Advancements and Next Steps] 
