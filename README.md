@@ -101,7 +101,7 @@ The book starts with an introduction to Reinforcement Learning, OpenAI, and Tens
 ### [7. Deep Learning Fundamentals](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/7.%20Deep%20Learning%20Fundamentals)
 
 * [7.1. Artificial Neurons](#)
-* [7.2. Artificial Neural Network(#)
+* [7.2. Artificial Neural Network](#)
 * [7.3. Activation Functions](#)
 * [7.4. Deep Dive into ANN](#)
 * [7.5. Gradient Descent](#)
@@ -111,7 +111,7 @@ The book starts with an introduction to Reinforcement Learning, OpenAI, and Tens
 * [7.9. Long Short Term Memory RNN](#)
 * [7.10. Generating Song Lyrics using LSTM RNN](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/7.%20Deep%20Learning%20Fundamentals/7.10%20Generating%20Song%20Lyrics%20Using%20LSTM%20RNN.ipynb)
 * [7.11. Convolutional Neural Networks](#)
-* [7.12. CNN Architecture](#)(#)
+* [7.12. CNN Architecture](#)
 * [7.13. Classifying Clothes Using CNN](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/7.%20Deep%20Learning%20Fundamentals/7.13%20Classifying%20Fashion%20Products%20Using%20CNN.ipynb)
  
 
